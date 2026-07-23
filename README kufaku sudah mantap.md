@@ -9,7 +9,7 @@
 
 **KUFAKU RENT** adalah aplikasi berbasis terminal yang dibuat untuk mengelola data rental mobil. Aplikasi ini mengimplementasikan operasi **CRUD** (Create, Read, Update, Delete) sebagai fitur utama, dilengkapi dengan fitur tambahan berupa sistem penyewaan mobil (rental) lengkap dengan perhitungan biaya sewa, pembayaran, dan pengembalian mobil.
 
-Seluruh menu utama dibangun menggunakan **regular function** dan data disimpan dalam **list of dictionary**, sesuai dengan materi yang dipelajari pada Module 2. Tidak menggunakan OOP maupun library eksternal.
+Seluruh menu utama dibangun menggunakan **regular function** dan data disimpan dalam **list of dictionary**, sesuai dengan materi yang dipelajari. Tidak menggunakan OOP maupun library eksternal.
 
 ---
 
